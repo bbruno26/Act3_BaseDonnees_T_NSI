@@ -5,7 +5,7 @@
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
-
+https://notebooks.gesis.org/binder/jupyter/user/bbruno26-act3_basedonnees_t_nsi-7iddalka/tree
 
 
 ## Notes
